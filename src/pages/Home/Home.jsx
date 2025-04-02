@@ -1,11 +1,11 @@
 import React from "react";
 import "./Home.scss";
-import Featured from "../../components/featured/Featured";
-import TrustedBy from "../../components/trustedBy/TrustedBy";
-import Slide from "../../components/slide/Slide";
-import ProjectCard from "../../components/projectCard/ProjectCard";
-import { cards, projects } from "../../data";
+import Featured from "../../components/Featured/Featured";
+import TrustedBy from "../../components/TrustedBy/TrustedBy";
+import Slide from "../../components/Slide/Slide";
+import ProjectCard from "../../components/ProjectCard/ProjectCard";
 import CategoryCard from "../../components/CategoryCard/CategoryCard";
+import { cards, projects } from "../../data";
 
 function Home() {
   return (

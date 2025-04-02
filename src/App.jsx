@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
 import Gigs from "./pages/Gigs/Gigs";
-import Gig from "./pages/gig/Gig";
+import Gig from "./pages/Gig/Gig";
 import AddGig from './pages/AddGig/AddGig'
 import Orders from "./pages/Orders/Orders";
 import Messages from "./pages/Messages/Messages";
